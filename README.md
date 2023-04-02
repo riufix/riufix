@@ -1,5 +1,6 @@
 ### Hi there, I'm Riufix 👋
 
+I'm a 2nd year student pursuing Masterr's in Game Programmation 👨‍🎓 from IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation. I'm currently into Gameplay developement 💻 and xorking on my C++ and blue print skills.
 <!--
 **riufix/riufix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
