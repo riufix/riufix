@@ -5,7 +5,7 @@ I'm a 2nd year student pursuing a Master's degree in Game Programmation 👨‍�
 ____________________________
 ### Github Stat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact)
-![Most used langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact&theme=chartreuse-dark&bg_color=DEG,095228,000000,000000)
+![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact&theme=chartreuse-dark&bg_color=DEG,095228,000000,000000)
 ![Riufix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riufix&count_private=true&theme=tokyonight&hide=contribs,prs)
 <!--
 **riufix/riufix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
