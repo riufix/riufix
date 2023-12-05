@@ -3,8 +3,10 @@
 I'm a 2nd year student pursuing a Master's degree in Game Programmation 👨‍🎓 from IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation. I'm currently into Gameplay developement 💻 and working on my C++ and blue print skills.
 
 ____________________________
-### Language and skills
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+### Languages and skills
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 ____________________________
 ### Github Stat
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact)
