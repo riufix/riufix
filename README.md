@@ -17,6 +17,8 @@ ____________________________
     <div style="display: flex;flex-direction: row;justify-content: space-evenly;align-items: center;flex-wrap: wrap;width: 250px;">
         <img style="height: 75px;width: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code">
         <img style="height: 75px;width: auto;" src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" alt="Visual studio">
+        <img style="height: 75px;width: auto;" src="https://cdn2.unrealengine.com/ue-logo-stacked-unreal-engine-w-677x545-fac11de0943f.png" alt="Unreal engine">
+        <img style="height: 75px;width: auto;" src="https://i.redd.it/tu3gt6ysfxq71.png" alt="Unity">
         <img style="height: 75px;width: auto;" src="https://cdn.icon-icons.com/icons2/1476/PNG/512/github_101792.png" alt="Github">
     </div>    
 </div>
