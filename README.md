@@ -1,4 +1,4 @@
-# Hi there, I'm Riufix 👋
+# Hi there, I'm Enguerrand 👋
 
 I'm a 2nd year student pursuing a Master's degree in Game Programmation 👨‍🎓 from IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation. I'm currently into Gameplay developement 💻 and working on my C++ and blue print skills.
 
