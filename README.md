@@ -2,7 +2,7 @@
 
 I'm a 2nd year student pursuing a Master's degree in Game Programmation 👨‍🎓 from IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation. I'm currently into Gameplay developement 💻 and working on my C++ and blue print skills.
 
-![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix-2&layout=compact&theme=chartreuse-dark&bg_color=DEG,095228,000000,000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact)
 ![Riufix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riufix&count_private=true&theme=tokyonight&hide=contribs,prs)
 <!--
 **riufix/riufix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
