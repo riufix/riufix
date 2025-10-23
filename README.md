@@ -1,6 +1,7 @@
 # Hi there, I'm riufix 👋
 
-I'm a student with a bachelor degree In Game Programmation pursuing a Master's degree in full stack Devellopement 👨‍🎓 at IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation. I'm currently into Gameplay developement 💻 and working on my C++ and blue print skills.
+I'm a student with a bachelor degree In Game Programmation pursuing a Master's degree in full stack Devellopement 👨‍🎓 at IIM Digital School Paris 🏫. I'm passionate learner who's willing to learn and work across technologies. I love new technologies ✨, Apart from that i also love to help people learning programmation.
+I'm also into Gameplay developement 💻 and working on my C++ and blue print skills.
 
 ____________________________
 ## Languages and skills
