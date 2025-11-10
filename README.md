@@ -9,7 +9,7 @@ I'm a student with a bachelor degree In Game Programmation pursuing a Master's d
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,html,css,js,swift,docker,vue,react,mongodb,express,nextjs,vercel,visualstudio,vscode,rider,unity,unreal,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,cpp,cs,html,css,js,ts,swift,docker,vue,react,mongodb,express,nextjs,vercel,visualstudio,vscode,rider,unity,unreal,git,github&perline=8)](https://skillicons.dev)
 
 
 ## Top Projects
