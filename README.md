@@ -22,7 +22,7 @@ I'm a student with a bachelor degree In Game Programmation pursuing a Master's d
 
 ![Riufix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riufix&count_private=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-## 
+
 
 
 ## Hobby ✨
