@@ -20,8 +20,11 @@ I'm a student with a bachelor degree In Game Programmation pursuing a Master's d
 
 ## GitHub Stats
 
-![Riufix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riufix&count_private=true&theme=tokyonight&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riufix&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Keep this as an exemple if link is not working properly
+![Riufix's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=riufix&count_private=true&theme=tokyonight&hide=contribs,prs ) -->
+![Riufix's GitHub stats](https://github-stats-extended.vercel.app/api?username=riufix&show_icons=true&include_all_commits=true&theme=radical)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=riufix&layout=compact&langs_count=8&theme=radical)
 
 
 
